@@ -46,6 +46,10 @@ a {
   text-decoration: none;
   background: #292929;
 }
+.ending {
+  text-align: center;
+  font-weight: 500;
+}
 
 .pop {
   width: 330px;
