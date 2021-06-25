@@ -12,7 +12,7 @@ body {
   height: 100vh;
   margin: 0 auto;
   padding: ;
-  background: yellow;
+  background: #203647;
   transition: 0.45s;
 }
 .container.active {
